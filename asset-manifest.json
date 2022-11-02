@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/BmiCalculator-Application/static/js/main.dfb1e9de.js",
+    "index.html": "/BmiCalculator-Application/index.html",
+    "main.dfb1e9de.js.map": "/BmiCalculator-Application/static/js/main.dfb1e9de.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dfb1e9de.js"
+  ]
+}
